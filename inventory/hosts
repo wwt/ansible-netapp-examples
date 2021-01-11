@@ -1,0 +1,15 @@
+[ipam]
+infoblox
+
+[netapp_ontap]
+na-cluster1
+
+[netapp_solidfire]
+sf-cluster1
+
+[vmware_vcenter]
+vcenter
+
+[vmware_esxi]
+esxi1
+esxi2
