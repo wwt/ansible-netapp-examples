@@ -11,3 +11,4 @@ vcenter_password: !vault |
           3564
 vmware_datacenter: WWT-ATC
 vmware_cluster: Cluster1
+  

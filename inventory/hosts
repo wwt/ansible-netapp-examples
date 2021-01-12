@@ -7,6 +7,11 @@ na-cluster1
 [netapp_solidfire]
 sf-cluster1
 
+
+[vmware:children]
+vmware_vcenter
+vmware_esxi
+
 [vmware_vcenter]
 vcenter
 
